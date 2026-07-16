@@ -11,5 +11,14 @@
       "lastUsedAt": 1784190125860
     }
   ],
-  "subsetMatches": []
+  "subsetMatches": [
+    {
+      "subsetHash": "a5437965b4c6eb7168392b8a090e668c62868a968f11485912668cf20a3a5ae4",
+      "sourceHash": "7cf21baaec5623375675acc7b723b0dd544c118777ea5a8c133c249794c1ecc2",
+      "outputName": "FZZCHJW-1-subset.ttf",
+      "outputBytes": 2324,
+      "savedAt": 1784190152097,
+      "lastUsedAt": 1784190152097
+    }
+  ]
 }
